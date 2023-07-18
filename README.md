@@ -2,3 +2,6 @@
 
 # Topics
 ## Exploratory Data Analysis
+- Estimates of Location
+- Estimates of Variability
+- Estimates Based on Percentiles
