@@ -12,6 +12,6 @@ population
     - Plotting boxplot of the population by state
     - Compute frequency table for population by 
     - Plotting a Histogram
-- #### Density Plots and Estimates
+    - Density Plots and Estimates
     - Plotting density plot superposed on a histogram
 - #### Exploring Binary and Categorical Data
