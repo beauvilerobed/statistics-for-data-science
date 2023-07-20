@@ -10,7 +10,7 @@ population
 - #### Exploring Data Distribution
     - Compute some percentiles of the murder rate by state.
     - Plotting boxplot of the population by state
-    - Compute frequency table for population by 
-    - Plotting a Histogram
+    - Compute frequency table for population by state 
+    - Plotting a histogram
     - Plotting density plot superposed on a histogram
 - #### Exploring Binary and Categorical Data
