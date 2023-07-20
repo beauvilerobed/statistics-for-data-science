@@ -14,3 +14,12 @@ population
     - Plotting a histogram
     - Plotting density plot superposed on a histogram
 - #### Exploring Binary and Categorical Data
+    - Plotting bar charts of airport delays per year by cause
+    - Mode and Expected Value
+    - Probability
+- #### Correlation
+    - Compute correlation between telecommunication stock returns from July 2021 through June 2015
+    - Compute heatmap of daily returns for major exchange-traded funds (ETFs).
+    - Plotting scatterplot of correlation between returns for ATT and Verizon
+- #### Exploring Two or More Variables
+
