@@ -22,4 +22,10 @@ population
     - Compute heatmap of daily returns for major exchange-traded funds (ETFs).
     - Plotting scatterplot of correlation between returns for ATT and Verizon
 - #### Exploring Two or More Variables
+    - Plotting hexagonal binning of relationship between the finished square feet and tax-assessed value for homes in King County
+    - Plotting contour plot for tax-assessed value vs. finished square feet
+    - Compute contingency table between a grade of a personal loan and outcome of that loan
+    - Plotting boxplot of percent of airline delays by carrier
+    - Plotting Violin plot of percent of airline delays by carrier
+    - Plotting facets (hexagonal bins of tax-assessed value vs. finished square feet conditioning on zip code)
 
