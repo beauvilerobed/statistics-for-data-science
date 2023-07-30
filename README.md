@@ -36,5 +36,7 @@
 - #### Multi-Arm Bandit
 - #### Power and Sample Size
 
+## Regression and Prediction
+
 
 
