@@ -51,6 +51,9 @@
 -  Regression Diagnostics
 -  Polynomial and Spline Regression
 
-
-
-
+## Classification
+- Naive Bayes
+- Discriminant Analysis
+- Logistic Regression
+- Evaluating Classification Models
+- Strategies for Imbalanced Data
