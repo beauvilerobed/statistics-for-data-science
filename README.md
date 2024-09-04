@@ -78,3 +78,9 @@
 - Data Generation
 - Cost-Based Classification
 - Exploring the Predictions
+
+## Statistical Machine Learning
+- K-Nearest Neighbors
+- Tree Models
+- Bagging and the Random Forest
+- Boosting
