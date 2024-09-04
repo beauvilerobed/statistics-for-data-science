@@ -53,7 +53,28 @@
 
 ## Classification
 - Naive Bayes
+- Why Exact Bayesian Classification Is Impractical
 - Discriminant Analysis
+- Covariance Matrix
+- Fisher's Linear Discriminant (A Simple Example)
+- Using Discriminant Analysis for Feature Selection
 - Logistic Regression
+- Logistic Response Function and Logit
+- Logistic Regression and the GLM
+- Interpreting the Coefficients and Odds Ratios
+- Linear and Logistic Regression: Similarities and Differences
+- Maximum Likelihood Estimation
 - Evaluating Classification Models
+- Confusion Matrix
+- The Rare Class Problem
+- Precision, Recall, and Specificity
+- ROC Curve
+- Precision-Recall Curve
+- AUC
+- Lift
 - Strategies for Imbalanced Data
+- Undersampling
+- Oversampling and Up/Down Weighting
+- Data Generation
+- Cost-Based Classification
+- Exploring the Predictions
