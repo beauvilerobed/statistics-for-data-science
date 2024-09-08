@@ -81,6 +81,27 @@
 
 ## Statistical Machine Learning
 - K-Nearest Neighbors
+- A Small Example: Predicting Loan Default
+- Distance Metrics
+- One Hot Encoder
+- Standardization (Normalization, z-Scores)
+- Choosing K
+- KNN as a Feature Engine
 - Tree Models
+- A Simple Example
+- The Recursive Partitioning Algorithm
+- Measuring Homogeneity or Impurity
+- Stopping the Tree from Growing
+- Controlling tree complexity in Python
+- Predicting a Continuous Value
+- How Trees Are Used
 - Bagging and the Random Forest
+- Variable Importance
+- Hyperparameters
 - Boosting
+- The Boosting Algorithm
+- XGBoost
+- Regularization: Avoiding Overtting
+- Ridge Regression and the Lasso
+- Hyperparameters and Cross-Validation
+- XGBoost Hyperparameters
