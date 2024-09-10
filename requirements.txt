@@ -10,3 +10,4 @@ dmba==0.2.4
 xgboost==1.4.2
 prince==0.7.1
 numpy==1.21.5
+adjusttext==1.2.0
