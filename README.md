@@ -101,7 +101,7 @@
 - Boosting
 - The Boosting Algorithm
 - XGBoost
-- Regularization: Avoiding Overtting
+- Regularization: Avoiding Overfitting
 - Ridge Regression and the Lasso
 - Hyperparameters and Cross-Validation
 - XGBoost Hyperparameters
