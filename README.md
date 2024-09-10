@@ -105,3 +105,10 @@
 - Ridge Regression and the Lasso
 - Hyperparameters and Cross-Validation
 - XGBoost Hyperparameters
+
+## Unsupervised Learning
+- Principal Components Analysis
+- K-means Clustering
+- Hierarchical Clustering
+- Model-Based Clustering
+- Scaling and Categorical Variables
