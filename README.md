@@ -108,7 +108,27 @@
 
 ## Unsupervised Learning
 - Principal Components Analysis
+- A Simple Example
+- Computing the Principal Components
+- Interpreting Principal Components
+- How Many Components to Choose?
+- Correspondence Analysis
 - K-means Clustering
+- A Simple Example
+- K-Means Algorithm
+- Interpreting the Clusters
+- Selecting the Number of Clusters
 - Hierarchical Clustering
+- A Simple Example
+- The Dendrogram
+- The Agglomerative Algorithm
+- Measures of Dissimilarity
 - Model-Based Clustering
+- Multivariate Normal Distribution
+- Mixtures of Normals
+- Selecting the Number of Clusters
 - Scaling and Categorical Variables
+- Scaling the Variables
+- Dominant Variables
+- Categorical Data and Gower's Distance
+- Problems in clustering with mixed data types
