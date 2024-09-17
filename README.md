@@ -2,11 +2,44 @@
 
 ## Exploratory Data Analysis
 -  Estimates of Location
+-  Elements of Structured Data
+-  Compute the mean, trimmed mean, the median of the state 
+-  Compute the average murder rate for the country
+-  Compute the median murder rate for the country
 -  Estimates of Variability
+-  Estimates Based on Percentiles
+-  Percentile: Precise Definition
+-  Computing standard deviation, quantiles, and MAD of State Population
 -  Exploring Data Distribution
+-  Percentiles and Boxplots
+-  Compute some percentiles of the murder rate by state
+-  Plotting boxplot of the population by state
+-  Frequency Table and Histograms
+-  Compute Frequency Table for Population By State
+-  Plotting a Histogram
+-  Density Plots and Estimates
+-  Plotting density plot superposed on a histogram
 -  Exploring Binary and Categorical Data
+-  Plotting Bar Charts of Airport Delays Per Year By Cause
+-  Mode and Expected Value
+-  Probability
+-  Further Reading
 -  Correlation
+-  Compute Correlation Between Telecommunication Stock Returns From June 2015 Through July 2021 
+-  Compute Heatmap of Daily Returns for Major Exchange-traded Funds (ETFs)
+-  Scatterplots
+-  Plotting Scatterplot of Correlation Between Returns for ATT and Verizon
 -  Exploring Two or More Variables
+-  Hexagonal Binning and Contours (Plotting Numeric Versus Numeric Data)
+-  Plotting Hexagonal Binning of Relationship Between the Finished Square Feet and Tax-assessed Value for Homes in King County
+-  Plotting Contour Plot for Tax-assessed Value vs. Finished Square Feet
+-  Two Categorical Variables
+-  Compute Contingency Table Between a Grade of a Personal Loan and Outcome of That Loan
+-  Categorical and Numeric Data
+-  Plotting Boxplot of Percentage of Flights in a Month By Carrier’s Control
+-  Plotting Violin Plot of Percent of Airline Delays by Carrier
+-  Visualizing Multiple Variables
+-  Plotting Facets (Hexagonal Bins of Tax-assessed Value vs. Finished Square Feet Conditioning on Zip Code)
 
 ## Data and Sampling Distributions
 -  Random Sampling and Sample Bias
