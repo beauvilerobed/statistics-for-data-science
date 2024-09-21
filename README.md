@@ -43,17 +43,29 @@
 
 ## Data and Sampling Distributions
 -  Random Sampling and Sample Bias
+-  Size Versus Quality: When Does Size Matter?
+-  Sample Mean Versus Population Mean
 -  Selection Bias
 -  Sampling Distribution of a Statistic
+-  Plotting histogram of annual income of loan applicants, mean of 5 applicants, mean of 20 applicants
 -  The Bootstrap
+-  Bootstrap confidence interval for the annual income of loan applicants, based on a sample of 20
+-  Compute boostrap statistics (bias and standard error)
 -  Confidence Intervals
 -  Normal Distribution
+-  Standard Normal and QQ-Plots
+-  Plotting QQ-Plot of a sample of 100 values drawn from a standard normal distribution
 -  Long-Tailed Distribution
+-  Plotting QQ-Plot of the returns for Netflix(NFLX)
 -  Student's t-Distribution
 -  Binomial Distribution
+-  Compute binomial PMF and CDF of observing 3 sales in 200 clicks with p = .02
 -  Chi-Square Distribution
 -  F-Distribution
 -  Poisson and Related Distributions
+-  Simulating and plotting poisson distribution
+-  Simulating and plotting exponential distribution
+-  Simulating and plotting weibull distribution
 
 ## Statistical Experiments and Significance Testing
 -  A/B Testing
