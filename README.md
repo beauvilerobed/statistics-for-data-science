@@ -69,17 +69,47 @@
 
 ## Statistical Experiments and Significance Testing
 -  A/B Testing
+-  Why Have a Control Group?
+-  Why Just A/B? Why Not C, D,…?
+-  Caution Story (Facebook)
+-  Further Reading
 -  Hypothesis Tests
+-  The Null Hypothesis
+-  Alternative Hypothesis
+-  One-Way Versus Two-Way Hypothesis Tests
 -  Resampling
+-  Permutation Test
+-  Example: Web Stickiness
+-  Exhaustive and Bootstrap Permutation Tests
+-  Permutation Tests: The Bottom Line for Data Science
+-  Table for ecommerce experiment results
+-  p-Value
+-  Alpha
+-  p-value controversy
+-  Practical signicance
+-  Type 1, Type 2 Errors, Data Science, and p-Values
 -  Statistical Significance and p-Values
 -  t-Tests
 -  Multiple Testing
+-  Degrees of Freedom
+-  Further Reading
 -  ANOVA
+-  Plotting Boxplots Of The Four Webpages
+-  Compute the permutation test (ANOVA)
 -  F-Statistic
+-  Two-Way ANOVA
 -  Chi-Square Test
+-  Chi-Square Test: A Resampling Appproach
+-  Compute Permutation Test (Chi-Square)
+-  Chi-Square Test: Statistical Theory
+-  Plotting Chi-Square Distribution With Different Degrees Of Freedom
 -  Fisher's Exact Test
+-  Detecting Scientific Fraud
+-  Relevance for Data Science
 -  Multi-Arm Bandit
+-  Further Reading
 -  Power and Sample Size
+-  Sample Size
 
 ## Regression and Prediction
 -  Simple Linear Regression
