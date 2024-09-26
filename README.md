@@ -86,7 +86,7 @@
 -  p-Value
 -  Alpha
 -  p-value controversy
--  Practical signicance
+-  Practical significance
 -  Type 1, Type 2 Errors, Data Science, and p-Values
 -  Statistical Significance and p-Values
 -  t-Tests
