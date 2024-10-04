@@ -113,18 +113,62 @@
 
 ## Regression and Prediction
 -  Simple Linear Regression
+-  Plotting Scatter Plot Cotton Exposure Versus Lung Capacity
+-  Compute Regression Line Intercept And Coefficient
+-  Fitted Values and Residuals
+-  Plotting Residuals From A Regression Line
+-  Least Squares
+-  Prediction Versus Explanation (Profiling)
 -  Multiple Linear Regression
+-  Example: King County Housing Data
 -  Assessing the Model
+-  Compute Mean Squared Error To Get RMSE And R2 Score For The Coefficient Of Detemination
+-  A More Detailed Analysis Of The Regressoin Model
 -  Cross-Validation
 -  Model Selection and Stepwise Regression
 -  Weighted Regression
+-  Example With Housing Data
 -  Prediction Using Regression
+-  The Dangers of Extrapolation
+-  Confidence and Prediction Intervals
+-  Prediction Interval or Confidence Interval?
 -  Factor Variable in Regression
+-  Convert Categorical Variables To Dummies
+-  Different Factor Codings
 -  Factor Variables with Many Levels
 -  Ordered Factor Variables
 -  Interpreting the Regression Equation
+-  Correlated Predictors
+-  Including Interactions Between Variables In King County Data
+-  Multicollinearity
+-  Confounding Variables
+-  Interactions and Main 
+-  Model Selection with Interaction Terms
 -  Regression Diagnostics
+-  Outliers
+-  Influential Values
+-  An Examples Of An Influential Data Point In Regression
+-  Plot To Determine Which Observations Have High Influence; Points With Cook'S Distance
+-  Comparison Of Regression Coefficients With The Full Data And With Influential Data Removed
+-  Heteroskedasticity, Non-Normality, and Correlated Errors
+-  Plotting The Absolute Value Of The Residuals Vs. The Predicted Values
+-  Plotting A Histogram Of The Standardized Residuals From The Regression Of The Housing Data (98105')
+-  Scatterplot Smoothers
+-  Partial Residual Plots and Nonlinearity
+-  Plotting A Partial Residual Plot For The Variable `Sqfttotliving`
+-  Plotting A Partial Residual Plot For All The Variable
 -  Polynomial and Spline Regression
+-  Nonlinear Regression
+-  Polynomial
+-  Plotting A Polynomial Regression Fit For The Variable Sqfttotliving (Solid Line) Versus A Smooth (Dashed Line)
+-  Splines
+-  Plotting A Spline Regression Fit For The Variable Sqfttotliving(Solid Line) Compared To A Smooth(Dashed Line)
+-  Generalized Additive Models
+-  Using pyGAM
+-  Using `statsmodels`
+-  Plotting A GAM Regression Fit For The Variable (Solid Line) Compared To A Smooth (Dashed Line)
+-  Additional Material - Regularization
+-  Lasso
 
 ## Classification
 - Naive Bayes
