@@ -1,6 +1,8 @@
 # Notes on Statistics for Data Science
 
-## Exploratory Data Analysis
+<details>
+<summary><b>Exploratory Data Analysis</b></summary>
+
 -  Estimates of Location
 -  Elements of Structured Data
 -  Compute the mean, trimmed mean, the median of the state 
@@ -40,8 +42,11 @@
 -  Plotting Violin Plot of Percent of Airline Delays by Carrier
 -  Visualizing Multiple Variables
 -  Plotting Facets (Hexagonal Bins of Tax-assessed Value vs. Finished Square Feet Conditioning on Zip Code)
+</details>
 
-## Data and Sampling Distributions
+<details>
+<summary><b>Data and Sampling Distributions</b></summary>
+
 -  Random Sampling and Sample Bias
 -  Size Versus Quality: When Does Size Matter?
 -  Sample Mean Versus Population Mean
@@ -66,8 +71,11 @@
 -  Simulating and plotting poisson distribution
 -  Simulating and plotting exponential distribution
 -  Simulating and plotting weibull distribution
+</details>
 
-## Statistical Experiments and Significance Testing
+<details>
+<summary><b>Statistical Experiments and Significance Testing</b></summary>
+
 -  A/B Testing
 -  Why Have a Control Group?
 -  Why Just A/B? Why Not C, D,…?
@@ -110,8 +118,11 @@
 -  Further Reading
 -  Power and Sample Size
 -  Sample Size
+</details>
 
-## Regression and Prediction
+<details>
+<summary><b>Regression and Prediction</b></summary>
+
 -  Simple Linear Regression
 -  Plotting Scatter Plot Cotton Exposure Versus Lung Capacity
 -  Compute Regression Line Intercept And Coefficient
@@ -169,8 +180,11 @@
 -  Plotting A GAM Regression Fit For The Variable (Solid Line) Compared To A Smooth (Dashed Line)
 -  Additional Material - Regularization
 -  Lasso
+</details>
 
-## Classification
+<details>
+<summary><b>Classification</b></summary>
+
 - Naive Bayes
 - Why Exact Bayesian Classification Is Impractical
 - Discriminant Analysis
@@ -197,8 +211,11 @@
 - Data Generation
 - Cost-Based Classification
 - Exploring the Predictions
+</details>
 
-## Statistical Machine Learning
+<details>
+<summary><b>Statistical Machine Learning</b></summary>
+
 - K-Nearest Neighbors
 - A Small Example: Predicting Loan Default
 - Distance Metrics
@@ -224,8 +241,10 @@
 - Ridge Regression and the Lasso
 - Hyperparameters and Cross-Validation
 - XGBoost Hyperparameters
+</details>
 
-## Unsupervised Learning
+<details>
+<summary><b>Unsupervised Learning</b></summary>
 - Principal Components Analysis
 - A Simple Example
 - Computing the Principal Components
@@ -251,3 +270,5 @@
 - Dominant Variables
 - Categorical Data and Gower's Distance
 - Problems in clustering with mixed data types
+</details>
+
