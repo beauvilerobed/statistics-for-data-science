@@ -244,7 +244,9 @@
 </details>
 
 <details>
-<summary><b>Unsupervised Learning</b></summary>
+<summary><b>Unsupervised Learning</b>
+</summary>
+  
 - Principal Components Analysis
 - A Simple Example
 - Computing the Principal Components
